@@ -23,6 +23,8 @@ How to Use:
 Insert a number into the input value and also select which units you want to convert. It will display the converted value below (as well as their symbol used).
 These values will update as you input different numbers. If you have an invalid input, it will state it.
 
+<img src="project-diagram.png" alt="Diagram Screenshot">
+
 Additional Information:
 Currently this system can only convert: meters, grams, joules, and hertz in the metric scale between values Tera (10e12) and Atto (10e-18)
 The conversion also can only convert between: Meters & Feet and Pounds & Grams (and vice versa)
