@@ -3,6 +3,8 @@ By: Jacob Coyle, Gage Dimapindan, David Bonnaud
 
 This project contains a metric conversion system which can scale various metric using measurements. It also contains some conversions too. This was made in an online JavaScript editor known as p5.js
 
+<img src="project.png" alt="Project Screenshot">
+
 Install:
 1) Download the github repository and extract its content into a folder.
 2) Open the folder and click on the file called "index" (this will open up the contents into your default browser)
