@@ -32,4 +32,4 @@ Currently this system can only convert: meters, grams, joules, and hertz in the 
 The conversion also can only convert between: Meters & Feet and Pounds & Grams (and vice versa)
 
 License:
-This software is open source and can be modified and used to anyone (GNU General Public License 3.0)
+This software is open source and can be modified and used to anyone (MIT)
